@@ -1,0 +1,700 @@
+{
+  "generated_at": "2026-07-27T22:07:33.952506",
+  "version": "3.118",
+  "script_hash": "1eed33a9dc1e",
+  "scan_hours": 72,
+  "retention_days": 14,
+  "activities": [
+    {
+      "activity_id": "i169176694",
+      "date": "2026-07-25",
+      "start_datetime": "2026-07-25T08:17:45",
+      "type": "Ride",
+      "name": "Dust Bowl 100",
+      "interval_summary": [
+        "2x 11s 387w",
+        "1x 73s 284w",
+        "1x 4m14s 196w",
+        "1x 14s 427w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2457,
+          "avg_power": 156,
+          "max_power": 482,
+          "avg_hr": 143,
+          "max_hr": 164,
+          "avg_cadence": 77.196175,
+          "zone": 2,
+          "training_load": 30.820608,
+          "decoupling": 3.7228103
+        },
+        {
+          "type": "WORK",
+          "label": "11s@387w85rpm",
+          "duration_secs": 11,
+          "avg_power": 392,
+          "max_power": 496,
+          "avg_hr": 138,
+          "max_hr": 146,
+          "avg_cadence": 79.72727,
+          "zone": 7,
+          "training_load": 0.12050622,
+          "decoupling": 23.962015
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 40,
+          "avg_power": 137,
+          "max_power": 454,
+          "avg_hr": 155,
+          "max_hr": 163,
+          "avg_cadence": 58.4,
+          "zone": 1,
+          "training_load": 0.9568711,
+          "decoupling": 33.91017
+        },
+        {
+          "type": "WORK",
+          "label": "11s@387w85rpm",
+          "duration_secs": 11,
+          "avg_power": 382,
+          "max_power": 512,
+          "avg_hr": 151,
+          "max_hr": 158,
+          "avg_cadence": 90.72727,
+          "zone": 7,
+          "training_load": 0.085184,
+          "decoupling": 0.5840208
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 7940,
+          "avg_power": 145,
+          "max_power": 560,
+          "avg_hr": 142,
+          "max_hr": 165,
+          "avg_cadence": 71.14222,
+          "zone": 2,
+          "training_load": 96.65042,
+          "decoupling": 0.5209126
+        },
+        {
+          "type": "WORK",
+          "label": "73s@284w75rpm",
+          "duration_secs": 73,
+          "avg_power": 284,
+          "max_power": 357,
+          "avg_hr": 156,
+          "max_hr": 170,
+          "avg_cadence": 74.64384,
+          "zone": 5,
+          "training_load": 2.261248,
+          "decoupling": 7.7641416
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 812,
+          "avg_power": 97,
+          "max_power": 556,
+          "avg_hr": 142,
+          "max_hr": 170,
+          "avg_cadence": 69.65625,
+          "zone": 1,
+          "training_load": 7.9933925,
+          "decoupling": 15.393336
+        },
+        {
+          "type": "WORK",
+          "label": "254s@196w81rpm",
+          "duration_secs": 254,
+          "avg_power": 196,
+          "max_power": 317,
+          "avg_hr": 157,
+          "max_hr": 168,
+          "avg_cadence": 80.649605,
+          "zone": 3,
+          "training_load": 4.5155554,
+          "decoupling": 0.8124822
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 264,
+          "avg_power": 131,
+          "max_power": 593,
+          "avg_hr": 142,
+          "max_hr": 155,
+          "avg_cadence": 54.166668,
+          "zone": 1,
+          "training_load": 3.2332373,
+          "decoupling": -19.35825
+        },
+        {
+          "type": "WORK",
+          "label": "14s@427w68rpm",
+          "duration_secs": 14,
+          "avg_power": 427,
+          "max_power": 555,
+          "avg_hr": 145,
+          "max_hr": 154,
+          "avg_cadence": 68.28571,
+          "zone": 7,
+          "training_load": 0.194936,
+          "decoupling": 13.915428
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 11332,
+          "avg_power": 139,
+          "max_power": 555,
+          "avg_hr": 148,
+          "max_hr": 171,
+          "avg_cadence": 68.99778,
+          "zone": 2,
+          "training_load": 127.90907,
+          "decoupling": 5.6601787
+        }
+      ]
+    },
+    {
+      "activity_id": "i168232334",
+      "date": "2026-07-22",
+      "start_datetime": "2026-07-22T17:00:05",
+      "type": "Run",
+      "name": "Columbus Running",
+      "interval_summary": [
+        "1x 17m14s 145bpm",
+        "3x 9m9s 152bpm",
+        "1x 4m50s 157bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1034s@145bpm83rpm",
+          "duration_secs": 1034,
+          "avg_hr": 145,
+          "max_hr": 167,
+          "avg_cadence": 82.9387,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "549s@152bpm83rpm",
+          "duration_secs": 541,
+          "avg_hr": 149,
+          "max_hr": 157,
+          "avg_cadence": 83.37893,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "549s@152bpm83rpm",
+          "duration_secs": 555,
+          "avg_hr": 152,
+          "max_hr": 162,
+          "avg_cadence": 82.85766,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "549s@152bpm83rpm",
+          "duration_secs": 550,
+          "avg_hr": 155,
+          "max_hr": 169,
+          "avg_cadence": 82.94909,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "290s@157bpm83rpm",
+          "duration_secs": 290,
+          "avg_hr": 157,
+          "max_hr": 177,
+          "avg_cadence": 83.34138,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i168100516",
+      "date": "2026-07-22",
+      "start_datetime": "2026-07-22T10:04:33",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3072,
+          "avg_power": 118,
+          "max_power": 545,
+          "avg_hr": 138,
+          "max_hr": 167,
+          "avg_cadence": 60.593307,
+          "zone": 1,
+          "training_load": 27.061512,
+          "decoupling": -1.1252747
+        }
+      ]
+    },
+    {
+      "activity_id": "i167907567",
+      "date": "2026-07-21",
+      "start_datetime": "2026-07-21T18:32:53",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3298,
+          "avg_power": 137,
+          "max_power": 582,
+          "avg_hr": 146,
+          "max_hr": 172,
+          "avg_cadence": 63.585773,
+          "zone": 1,
+          "training_load": 38.602894,
+          "decoupling": 11.217436
+        }
+      ]
+    },
+    {
+      "activity_id": "i167844595",
+      "date": "2026-07-21",
+      "start_datetime": "2026-07-21T13:53:46",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2400,
+          "avg_power": 145,
+          "max_power": 411,
+          "avg_hr": 143,
+          "max_hr": 162,
+          "avg_cadence": 65.14883,
+          "zone": 2,
+          "training_load": 27.398735,
+          "decoupling": 10.587805
+        }
+      ]
+    },
+    {
+      "activity_id": "i167568617",
+      "date": "2026-07-20",
+      "start_datetime": "2026-07-20T16:03:59",
+      "type": "Swim",
+      "name": "Pool Swim",
+      "interval_summary": [
+        "1x 182m 131bpm",
+        "1x 548m 140bpm",
+        "1x 640m 138bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5,
+          "avg_hr": 104,
+          "max_hr": 105,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "212s@131bpm",
+          "duration_secs": 212,
+          "avg_hr": 131,
+          "max_hr": 140,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 775,
+          "avg_hr": 91,
+          "max_hr": 123,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "689s@140bpm",
+          "duration_secs": 689,
+          "avg_hr": 140,
+          "max_hr": 154,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 603,
+          "avg_hr": 105,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "819s@138bpm",
+          "duration_secs": 819,
+          "avg_hr": 138,
+          "max_hr": 148,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 10,
+          "avg_hr": 130,
+          "max_hr": 141,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i167472760",
+      "date": "2026-07-20",
+      "start_datetime": "2026-07-20T07:46:22",
+      "type": "VirtualRide",
+      "name": "Zwift - Casse-Pattes in France",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4114,
+          "avg_power": 123,
+          "max_power": 260,
+          "avg_hr": 123,
+          "max_hr": 139,
+          "avg_cadence": 75.354645,
+          "zone": 1,
+          "training_load": 29.007215,
+          "decoupling": -2.5469313
+        }
+      ]
+    },
+    {
+      "activity_id": "i167304226",
+      "date": "2026-07-19",
+      "start_datetime": "2026-07-19T19:41:49",
+      "type": "VirtualRun",
+      "name": "Treadmill Running",
+      "interval_summary": [
+        "1x 9m58s 138bpm",
+        "1x 8m54s 140bpm",
+        "2x 8m38s 168bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "598s@138bpm80rpm",
+          "duration_secs": 598,
+          "avg_hr": 138,
+          "max_hr": 155,
+          "avg_cadence": 80.47698,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "534s@140bpm80rpm",
+          "duration_secs": 534,
+          "avg_hr": 140,
+          "max_hr": 155,
+          "avg_cadence": 80.3427,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "518s@168bpm78rpm",
+          "duration_secs": 536,
+          "avg_hr": 164,
+          "max_hr": 172,
+          "avg_cadence": 78.42164,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "518s@168bpm78rpm",
+          "duration_secs": 500,
+          "avg_hr": 171,
+          "max_hr": 175,
+          "avg_cadence": 78.064,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i166631609",
+      "date": "2026-07-17",
+      "start_datetime": "2026-07-17T10:05:17",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3658,
+          "avg_power": 46,
+          "max_power": 235,
+          "avg_hr": 116,
+          "max_hr": 136,
+          "avg_cadence": 47.27515,
+          "zone": 1,
+          "training_load": 6.7255197,
+          "decoupling": 16.291256
+        }
+      ]
+    },
+    {
+      "activity_id": "i166461765",
+      "date": "2026-07-16",
+      "start_datetime": "2026-07-16T19:11:55",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3141,
+          "avg_power": 69,
+          "max_power": 239,
+          "avg_hr": 138,
+          "max_hr": 163,
+          "avg_cadence": 60.048088,
+          "zone": 1,
+          "training_load": 8.750165,
+          "decoupling": 7.66359
+        }
+      ]
+    },
+    {
+      "activity_id": "i165776110",
+      "date": "2026-07-14",
+      "start_datetime": "2026-07-14T16:58:59",
+      "type": "Run",
+      "name": "Run club",
+      "interval_summary": [
+        "1x 29m47s 143bpm",
+        "2x 8m55s 159bpm",
+        "1x 12m44s 154bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1787s@143bpm84rpm",
+          "duration_secs": 1787,
+          "avg_hr": 143,
+          "max_hr": 158,
+          "avg_cadence": 84.08608,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "535s@159bpm83rpm",
+          "duration_secs": 532,
+          "avg_hr": 157,
+          "max_hr": 164,
+          "avg_cadence": 82.753784,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "535s@159bpm83rpm",
+          "duration_secs": 538,
+          "avg_hr": 160,
+          "max_hr": 173,
+          "avg_cadence": 83.215614,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "764s@154bpm83rpm",
+          "duration_secs": 764,
+          "avg_hr": 154,
+          "max_hr": 170,
+          "avg_cadence": 83.333336,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i165742227",
+      "date": "2026-07-14",
+      "start_datetime": "2026-07-14T14:09:33",
+      "type": "Swim",
+      "name": "Pool Swim",
+      "interval_summary": [
+        "1x 91m 106bpm",
+        "2x 182m 122bpm",
+        "1x 365m 124bpm",
+        "2x 274m 132bpm",
+        "1x 457m 129bpm",
+        "1x 365m 138bpm",
+        "1x 91m 134bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 9,
+          "avg_hr": 91,
+          "max_hr": 92,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "112s@106bpm",
+          "duration_secs": 112,
+          "avg_hr": 106,
+          "max_hr": 119,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 41,
+          "avg_hr": 112,
+          "max_hr": 118,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "234s@122bpm",
+          "duration_secs": 232,
+          "avg_hr": 116,
+          "max_hr": 126,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 94,
+          "avg_hr": 107,
+          "max_hr": 120,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "478s@124bpm",
+          "duration_secs": 478,
+          "avg_hr": 124,
+          "max_hr": 135,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 136,
+          "avg_hr": 112,
+          "max_hr": 129,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "356s@132bpm",
+          "duration_secs": 350,
+          "avg_hr": 135,
+          "max_hr": 148,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 173,
+          "avg_hr": 113,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "583s@129bpm",
+          "duration_secs": 583,
+          "avg_hr": 129,
+          "max_hr": 146,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 211,
+          "avg_hr": 106,
+          "max_hr": 139,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "481s@138bpm",
+          "duration_secs": 481,
+          "avg_hr": 138,
+          "max_hr": 148,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 55,
+          "avg_hr": 127,
+          "max_hr": 144,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "356s@132bpm",
+          "duration_secs": 361,
+          "avg_hr": 129,
+          "max_hr": 138,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 41,
+          "avg_hr": 118,
+          "max_hr": 122,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "234s@122bpm",
+          "duration_secs": 236,
+          "avg_hr": 127,
+          "max_hr": 131,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 49,
+          "avg_hr": 126,
+          "max_hr": 132,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "114s@134bpm",
+          "duration_secs": 114,
+          "avg_hr": 134,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 16,
+          "avg_hr": 140,
+          "max_hr": 142,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i165326887",
+      "date": "2026-07-13",
+      "start_datetime": "2026-07-13T08:13:34",
+      "type": "VirtualRide",
+      "name": "Zwift - Montmartre Mixer in Paris",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3979,
+          "avg_power": 130,
+          "max_power": 309,
+          "avg_hr": 119,
+          "max_hr": 136,
+          "avg_cadence": 76.03292,
+          "zone": 1,
+          "training_load": 31.258429,
+          "decoupling": -7.3301663
+        }
+      ]
+    }
+  ]
+}
