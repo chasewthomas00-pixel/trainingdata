@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:07:33.952506",
+  "generated_at": "2026-07-28T07:59:14.649994",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -671,28 +671,6 @@
           "avg_hr": 140,
           "max_hr": 142,
           "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i165326887",
-      "date": "2026-07-13",
-      "start_datetime": "2026-07-13T08:13:34",
-      "type": "VirtualRide",
-      "name": "Zwift - Montmartre Mixer in Paris",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3979,
-          "avg_power": 130,
-          "max_power": 309,
-          "avg_hr": 119,
-          "max_hr": 136,
-          "avg_cadence": 76.03292,
-          "zone": 1,
-          "training_load": 31.258429,
-          "decoupling": -7.3301663
         }
       ]
     }
