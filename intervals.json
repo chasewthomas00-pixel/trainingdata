@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:38:15.632447",
+  "generated_at": "2026-07-29T00:01:31.058419",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -465,216 +465,6 @@
       ]
     },
     {
-      "activity_id": "i165776110",
-      "date": "2026-07-14",
-      "start_datetime": "2026-07-14T16:58:59",
-      "type": "Run",
-      "name": "Run club",
-      "interval_summary": [
-        "1x 29m47s 143bpm",
-        "2x 8m55s 159bpm",
-        "1x 12m44s 154bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1787s@143bpm84rpm",
-          "duration_secs": 1787,
-          "avg_hr": 143,
-          "max_hr": 158,
-          "avg_cadence": 84.08608,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "535s@159bpm83rpm",
-          "duration_secs": 532,
-          "avg_hr": 157,
-          "max_hr": 164,
-          "avg_cadence": 82.753784,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "535s@159bpm83rpm",
-          "duration_secs": 538,
-          "avg_hr": 160,
-          "max_hr": 173,
-          "avg_cadence": 83.215614,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "764s@154bpm83rpm",
-          "duration_secs": 764,
-          "avg_hr": 154,
-          "max_hr": 170,
-          "avg_cadence": 83.333336,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i165742227",
-      "date": "2026-07-14",
-      "start_datetime": "2026-07-14T14:09:33",
-      "type": "Swim",
-      "name": "Pool Swim",
-      "interval_summary": [
-        "1x 91m 106bpm",
-        "2x 182m 122bpm",
-        "1x 365m 124bpm",
-        "2x 274m 132bpm",
-        "1x 457m 129bpm",
-        "1x 365m 138bpm",
-        "1x 91m 134bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 9,
-          "avg_hr": 91,
-          "max_hr": 92,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "112s@106bpm",
-          "duration_secs": 112,
-          "avg_hr": 106,
-          "max_hr": 119,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 41,
-          "avg_hr": 112,
-          "max_hr": 118,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "234s@122bpm",
-          "duration_secs": 232,
-          "avg_hr": 116,
-          "max_hr": 126,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 94,
-          "avg_hr": 107,
-          "max_hr": 120,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "478s@124bpm",
-          "duration_secs": 478,
-          "avg_hr": 124,
-          "max_hr": 135,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 136,
-          "avg_hr": 112,
-          "max_hr": 129,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "356s@132bpm",
-          "duration_secs": 350,
-          "avg_hr": 135,
-          "max_hr": 148,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 173,
-          "avg_hr": 113,
-          "max_hr": 149,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "583s@129bpm",
-          "duration_secs": 583,
-          "avg_hr": 129,
-          "max_hr": 146,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 211,
-          "avg_hr": 106,
-          "max_hr": 139,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "481s@138bpm",
-          "duration_secs": 481,
-          "avg_hr": 138,
-          "max_hr": 148,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 55,
-          "avg_hr": 127,
-          "max_hr": 144,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "356s@132bpm",
-          "duration_secs": 361,
-          "avg_hr": 129,
-          "max_hr": 138,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 41,
-          "avg_hr": 118,
-          "max_hr": 122,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "234s@122bpm",
-          "duration_secs": 236,
-          "avg_hr": 127,
-          "max_hr": 131,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 49,
-          "avg_hr": 126,
-          "max_hr": 132,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "114s@134bpm",
-          "duration_secs": 114,
-          "avg_hr": 134,
-          "max_hr": 142,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 16,
-          "avg_hr": 140,
-          "max_hr": 142,
-          "zone": 1
-        }
-      ]
-    },
-    {
       "activity_id": "i170096693",
       "date": "2026-07-28",
       "start_datetime": "2026-07-28T09:56:32",
@@ -797,6 +587,28 @@
           "avg_hr": 115,
           "max_hr": 134,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i170231129",
+      "date": "2026-07-28",
+      "start_datetime": "2026-07-28T15:05:03",
+      "type": "VirtualRide",
+      "name": "Zwift - Cr\u00eape Escape in Paris",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2415,
+          "avg_power": 105,
+          "max_power": 256,
+          "avg_hr": 119,
+          "max_hr": 140,
+          "avg_cadence": 70.83561,
+          "zone": 1,
+          "training_load": 13.381602,
+          "decoupling": -2.6335194
         }
       ]
     }
