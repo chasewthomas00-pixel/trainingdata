@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:44:29.006989",
+  "generated_at": "2026-07-31T07:41:51.349420",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -439,28 +439,6 @@
           "zone": 1,
           "training_load": 6.7255197,
           "decoupling": 16.291256
-        }
-      ]
-    },
-    {
-      "activity_id": "i166461765",
-      "date": "2026-07-16",
-      "start_datetime": "2026-07-16T19:11:55",
-      "type": "Ride",
-      "name": "Columbus Road Cycling",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3141,
-          "avg_power": 69,
-          "max_power": 239,
-          "avg_hr": 138,
-          "max_hr": 163,
-          "avg_cadence": 60.048088,
-          "zone": 1,
-          "training_load": 8.750165,
-          "decoupling": 7.66359
         }
       ]
     },
