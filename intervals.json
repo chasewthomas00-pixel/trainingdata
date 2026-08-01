@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:02:51.581861",
+  "generated_at": "2026-08-01T23:43:25.678847",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -682,6 +682,55 @@
           "avg_hr": 139,
           "max_hr": 156,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i171536505",
+      "date": "2026-08-01",
+      "start_datetime": "2026-08-01T12:59:48",
+      "type": "VirtualRide",
+      "name": "Zwift - Three Musketeers in France",
+      "interval_summary": [
+        "1x 64s 412w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1977,
+          "avg_power": 125,
+          "max_power": 458,
+          "avg_hr": 121,
+          "max_hr": 161,
+          "avg_cadence": 74.0862,
+          "zone": 1,
+          "training_load": 16.286348,
+          "decoupling": -4.98793
+        },
+        {
+          "type": "WORK",
+          "label": "64s@412w90rpm",
+          "duration_secs": 64,
+          "avg_power": 412,
+          "max_power": 540,
+          "avg_hr": 176,
+          "max_hr": 184,
+          "avg_cadence": 90.140625,
+          "zone": 7,
+          "training_load": 4.357371,
+          "decoupling": 4.158262
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3755,
+          "avg_power": 125,
+          "max_power": 357,
+          "avg_hr": 126,
+          "max_hr": 185,
+          "avg_cadence": 71.50759,
+          "zone": 1,
+          "training_load": 33.83187,
+          "decoupling": -3.021276
         }
       ]
     }
