@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:40:36.038494",
+  "generated_at": "2026-08-01T07:39:28.440640",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -421,28 +421,6 @@
       ]
     },
     {
-      "activity_id": "i166631609",
-      "date": "2026-07-17",
-      "start_datetime": "2026-07-17T10:05:17",
-      "type": "Ride",
-      "name": "Columbus Road Cycling",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3658,
-          "avg_power": 46,
-          "max_power": 235,
-          "avg_hr": 116,
-          "max_hr": 136,
-          "avg_cadence": 47.27515,
-          "zone": 1,
-          "training_load": 6.7255197,
-          "decoupling": 16.291256
-        }
-      ]
-    },
-    {
       "activity_id": "i170096693",
       "date": "2026-07-28",
       "start_datetime": "2026-07-28T09:56:32",
@@ -674,6 +652,35 @@
           "avg_hr": 148,
           "max_hr": 149,
           "avg_cadence": 81.85714,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i171263565",
+      "date": "2026-07-31",
+      "start_datetime": "2026-07-31T20:40:10",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": [
+        "1x 18m55s 126bpm",
+        "1x 3m42s 139bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1135s@126bpm",
+          "duration_secs": 1135,
+          "avg_hr": 126,
+          "max_hr": 154,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "222s@139bpm",
+          "duration_secs": 222,
+          "avg_hr": 139,
+          "max_hr": 156,
           "zone": 1
         }
       ]
