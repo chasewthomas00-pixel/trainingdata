@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:45:23.977216",
+  "generated_at": "2026-08-03T12:41:15.841019",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -371,56 +371,6 @@
       ]
     },
     {
-      "activity_id": "i167304226",
-      "date": "2026-07-19",
-      "start_datetime": "2026-07-19T19:41:49",
-      "type": "VirtualRun",
-      "name": "Treadmill Running",
-      "interval_summary": [
-        "1x 9m58s 138bpm",
-        "1x 8m54s 140bpm",
-        "2x 8m38s 168bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "598s@138bpm80rpm",
-          "duration_secs": 598,
-          "avg_hr": 138,
-          "max_hr": 155,
-          "avg_cadence": 80.47698,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "534s@140bpm80rpm",
-          "duration_secs": 534,
-          "avg_hr": 140,
-          "max_hr": 155,
-          "avg_cadence": 80.3427,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "518s@168bpm78rpm",
-          "duration_secs": 536,
-          "avg_hr": 164,
-          "max_hr": 172,
-          "avg_cadence": 78.42164,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "518s@168bpm78rpm",
-          "duration_secs": 500,
-          "avg_hr": 171,
-          "max_hr": 175,
-          "avg_cadence": 78.064,
-          "zone": 3
-        }
-      ]
-    },
-    {
       "activity_id": "i170096693",
       "date": "2026-07-28",
       "start_datetime": "2026-07-28T09:56:32",
@@ -731,6 +681,28 @@
           "zone": 1,
           "training_load": 33.83187,
           "decoupling": -3.021276
+        }
+      ]
+    },
+    {
+      "activity_id": "i171894244",
+      "date": "2026-08-02",
+      "start_datetime": "2026-08-02T18:22:58",
+      "type": "VirtualRide",
+      "name": "Zwift - Hell of the North in France",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4670,
+          "avg_power": 131,
+          "max_power": 293,
+          "avg_hr": 125,
+          "max_hr": 148,
+          "avg_cadence": 70.06604,
+          "zone": 1,
+          "training_load": 38.995945,
+          "decoupling": 0.6137792
         }
       ]
     }
