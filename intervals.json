@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:38:04.592567",
+  "generated_at": "2026-08-04T08:08:42.232621",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -279,94 +279,6 @@
           "zone": 2,
           "training_load": 27.398735,
           "decoupling": 10.587805
-        }
-      ]
-    },
-    {
-      "activity_id": "i167568617",
-      "date": "2026-07-20",
-      "start_datetime": "2026-07-20T16:03:59",
-      "type": "Swim",
-      "name": "Pool Swim",
-      "interval_summary": [
-        "1x 182m 131bpm",
-        "1x 548m 140bpm",
-        "1x 640m 138bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5,
-          "avg_hr": 104,
-          "max_hr": 105,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "212s@131bpm",
-          "duration_secs": 212,
-          "avg_hr": 131,
-          "max_hr": 140,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 775,
-          "avg_hr": 91,
-          "max_hr": 123,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "689s@140bpm",
-          "duration_secs": 689,
-          "avg_hr": 140,
-          "max_hr": 154,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 603,
-          "avg_hr": 105,
-          "max_hr": 142,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "819s@138bpm",
-          "duration_secs": 819,
-          "avg_hr": 138,
-          "max_hr": 148,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 10,
-          "avg_hr": 130,
-          "max_hr": 141,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i167472760",
-      "date": "2026-07-20",
-      "start_datetime": "2026-07-20T07:46:22",
-      "type": "VirtualRide",
-      "name": "Zwift - Casse-Pattes in France",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 4114,
-          "avg_power": 123,
-          "max_power": 260,
-          "avg_hr": 123,
-          "max_hr": 139,
-          "avg_cadence": 75.354645,
-          "zone": 1,
-          "training_load": 29.007215,
-          "decoupling": -2.5469313
         }
       ]
     },
