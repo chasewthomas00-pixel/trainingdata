@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T20:13:08.265193",
+  "generated_at": "2026-08-08T21:50:46.242627",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1117,6 +1117,68 @@
           "avg_hr": 128,
           "max_hr": 149,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i173861778",
+      "date": "2026-08-08",
+      "start_datetime": "2026-08-08T16:40:59",
+      "type": "Run",
+      "name": "Columbus Running",
+      "interval_summary": [
+        "2x 8m16s 161bpm",
+        "1x 62s 174bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "496s@161bpm83rpm",
+          "duration_secs": 500,
+          "avg_hr": 153,
+          "max_hr": 169,
+          "avg_cadence": 83.708,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "496s@161bpm83rpm",
+          "duration_secs": 492,
+          "avg_hr": 168,
+          "max_hr": 175,
+          "avg_cadence": 82.02846,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "62s@174bpm82rpm",
+          "duration_secs": 62,
+          "avg_hr": 174,
+          "max_hr": 179,
+          "avg_cadence": 81.951614,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i173858294",
+      "date": "2026-08-08",
+      "start_datetime": "2026-08-08T13:03:13",
+      "type": "VirtualRide",
+      "name": "Zwift - Tempus Fugit in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5560,
+          "avg_power": 125,
+          "max_power": 303,
+          "avg_hr": 121,
+          "max_hr": 142,
+          "avg_cadence": 77.846405,
+          "zone": 1,
+          "training_load": 41.84081,
+          "decoupling": -0.5259193
         }
       ]
     }
