@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:19:41.597812",
+  "generated_at": "2026-08-11T00:03:19.700270",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1200,6 +1200,133 @@
           "zone": 1,
           "training_load": 5.5195026,
           "decoupling": 8.008824
+        }
+      ]
+    },
+    {
+      "activity_id": "i174540253",
+      "date": "2026-08-10",
+      "start_datetime": "2026-08-10T17:08:07",
+      "type": "Swim",
+      "name": "Oh boy",
+      "interval_summary": [
+        "3x 274m 138bpm",
+        "1x 91m 116bpm",
+        "1x 274m 118bpm",
+        "2x 91m 147bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5,
+          "avg_hr": 115,
+          "max_hr": 117,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "346s@138bpm",
+          "duration_secs": 329,
+          "avg_hr": 134,
+          "max_hr": 154,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 97,
+          "avg_hr": 120,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "109s@116bpm",
+          "duration_secs": 109,
+          "avg_hr": 116,
+          "max_hr": 121,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 76,
+          "avg_hr": 111,
+          "max_hr": 124,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "344s@118bpm",
+          "duration_secs": 344,
+          "avg_hr": 118,
+          "max_hr": 131,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 76,
+          "avg_hr": 121,
+          "max_hr": 134,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "346s@138bpm",
+          "duration_secs": 351,
+          "avg_hr": 145,
+          "max_hr": 153,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 91,
+          "avg_hr": 133,
+          "max_hr": 162,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "346s@138bpm",
+          "duration_secs": 357,
+          "avg_hr": 136,
+          "max_hr": 146,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 79,
+          "avg_hr": 136,
+          "max_hr": 147,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "115s@147bpm",
+          "duration_secs": 117,
+          "avg_hr": 145,
+          "max_hr": 153,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 43,
+          "avg_hr": 139,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "115s@147bpm",
+          "duration_secs": 112,
+          "avg_hr": 148,
+          "max_hr": 152,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4,
+          "avg_hr": 153,
+          "max_hr": 154,
+          "zone": 1
         }
       ]
     }
