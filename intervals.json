@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:27:58.890292",
+  "generated_at": "2026-08-11T18:38:41.464711",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1327,6 +1327,28 @@
           "avg_hr": 153,
           "max_hr": 154,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i174835837",
+      "date": "2026-08-11",
+      "start_datetime": "2026-08-11T12:47:58",
+      "type": "VirtualRide",
+      "name": "Zwift - Pacer Group Ride with Miguel",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2796,
+          "avg_power": 144,
+          "max_power": 323,
+          "avg_hr": 135,
+          "max_hr": 149,
+          "avg_cadence": 80.09621,
+          "zone": 2,
+          "training_load": 28.574488,
+          "decoupling": 3.0676074
         }
       ]
     }
