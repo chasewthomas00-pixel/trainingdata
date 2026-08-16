@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:43:04.881587",
+  "generated_at": "2026-08-16T15:41:26.171660",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1057,6 +1057,95 @@
           "zone": 1,
           "training_load": 22.765936,
           "decoupling": -11.377338
+        }
+      ]
+    },
+    {
+      "activity_id": "i176475996",
+      "date": "2026-08-16",
+      "start_datetime": "2026-08-16T08:51:10",
+      "type": "Ride",
+      "name": "Plainfield Road Cycling",
+      "interval_summary": [
+        "1x 51s 339w",
+        "1x 2m54s 369w",
+        "1x 51s 300w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 9492,
+          "avg_power": 100,
+          "max_power": 443,
+          "avg_hr": 156,
+          "max_hr": 178,
+          "avg_cadence": 82.964264,
+          "zone": 1,
+          "training_load": 57.555294,
+          "decoupling": -13.681716
+        },
+        {
+          "type": "WORK",
+          "label": "51s@339w88rpm",
+          "duration_secs": 51,
+          "avg_power": 339,
+          "max_power": 460,
+          "avg_hr": 158,
+          "max_hr": 161,
+          "avg_cadence": 87.76471,
+          "zone": 6,
+          "training_load": 2.3461044,
+          "decoupling": 9.376447
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 66,
+          "avg_power": 259,
+          "max_power": 351,
+          "avg_hr": 152,
+          "max_hr": 160,
+          "avg_cadence": 79.045456,
+          "zone": 5,
+          "training_load": 2.2448602,
+          "decoupling": -18.658716
+        },
+        {
+          "type": "WORK",
+          "label": "174s@369w88rpm",
+          "duration_secs": 174,
+          "avg_power": 369,
+          "max_power": 479,
+          "avg_hr": 165,
+          "max_hr": 173,
+          "avg_cadence": 88.17242,
+          "zone": 7,
+          "training_load": 10.994177,
+          "decoupling": -3.8341987
+        },
+        {
+          "type": "WORK",
+          "label": "51s@300w89rpm",
+          "duration_secs": 51,
+          "avg_power": 300,
+          "max_power": 381,
+          "avg_hr": 164,
+          "max_hr": 166,
+          "avg_cadence": 88.72549,
+          "zone": 6,
+          "training_load": 2.4671738,
+          "decoupling": 8.988785
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 78,
+          "avg_power": 128,
+          "max_power": 417,
+          "avg_hr": 157,
+          "max_hr": 164,
+          "avg_cadence": 48.076923,
+          "zone": 1,
+          "training_load": 1.3838266,
+          "decoupling": 2.704656
         }
       ]
     }
