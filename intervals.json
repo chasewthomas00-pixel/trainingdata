@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:41:04.797931",
+  "generated_at": "2026-08-18T20:50:32.531227",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1263,6 +1263,46 @@
           "max_hr": 190,
           "avg_cadence": 83.745766,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i177320395",
+      "date": "2026-08-18",
+      "start_datetime": "2026-08-18T13:45:43",
+      "type": "MountainBikeRide",
+      "name": "North Ogden Mountain Biking",
+      "interval_summary": [
+        "1x 28m41s 132bpm",
+        "1x 6m18s 101bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5
+        },
+        {
+          "type": "WORK",
+          "label": "1721s@132bpm",
+          "duration_secs": 1721,
+          "avg_hr": 132,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 116,
+          "max_hr": 116,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "378s@101bpm",
+          "duration_secs": 378,
+          "avg_hr": 101,
+          "max_hr": 128,
+          "zone": 1
         }
       ]
     }
