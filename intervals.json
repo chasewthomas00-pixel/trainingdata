@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:51:10.832972",
+  "generated_at": "2026-08-20T19:46:09.247853",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -914,6 +914,26 @@
           "avg_hr": 101,
           "max_hr": 128,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i178058485",
+      "date": "2026-08-20",
+      "start_datetime": "2026-08-20T12:28:41",
+      "type": "Ride",
+      "name": "North Ogden Cycling",
+      "interval_summary": [
+        "1x 13m12s 165bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "792s@165bpm",
+          "duration_secs": 792,
+          "avg_hr": 165,
+          "max_hr": 189,
+          "zone": 2
         }
       ]
     }
