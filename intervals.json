@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:52:39.255046",
+  "generated_at": "2026-08-22T20:54:20.592776",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -751,6 +751,108 @@
           "duration_secs": 377,
           "avg_hr": 164,
           "max_hr": 176,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i178703673",
+      "date": "2026-08-22",
+      "start_datetime": "2026-08-22T11:13:56",
+      "type": "Ride",
+      "name": "Garden City Cycling",
+      "interval_summary": [
+        "9x 15m46s 158bpm",
+        "1x 27m47s 150bpm",
+        "1x 66s 163bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 1039,
+          "avg_hr": 154,
+          "max_hr": 172,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 973,
+          "avg_hr": 159,
+          "max_hr": 170,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 921,
+          "avg_hr": 162,
+          "max_hr": 175,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1667s@150bpm",
+          "duration_secs": 1667,
+          "avg_hr": 150,
+          "max_hr": 161,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 1008,
+          "avg_hr": 152,
+          "max_hr": 164,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 985,
+          "avg_hr": 156,
+          "max_hr": 169,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 945,
+          "avg_hr": 156,
+          "max_hr": 166,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 914,
+          "avg_hr": 161,
+          "max_hr": 169,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 875,
+          "avg_hr": 162,
+          "max_hr": 170,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "946s@158bpm",
+          "duration_secs": 852,
+          "avg_hr": 162,
+          "max_hr": 173,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "66s@163bpm",
+          "duration_secs": 66,
+          "avg_hr": 163,
+          "max_hr": 168,
           "zone": 2
         }
       ]
