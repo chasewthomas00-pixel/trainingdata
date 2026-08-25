@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:28:03.260805",
+  "generated_at": "2026-08-25T16:19:42.315764",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -677,6 +677,72 @@
           "duration_secs": 32,
           "avg_hr": 121,
           "max_hr": 126,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i179667962",
+      "date": "2026-08-25",
+      "start_datetime": "2026-08-25T11:02:38",
+      "type": "Swim",
+      "name": "Pool Swim",
+      "interval_summary": [
+        "1x 182m 97bpm",
+        "1x 1097m 122bpm",
+        "1x 91m 132bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5,
+          "avg_hr": 90,
+          "max_hr": 92,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "222s@97bpm",
+          "duration_secs": 222,
+          "avg_hr": 97,
+          "max_hr": 102,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 68,
+          "avg_hr": 101,
+          "max_hr": 112,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1379s@122bpm",
+          "duration_secs": 1379,
+          "avg_hr": 122,
+          "max_hr": 141,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 44,
+          "avg_hr": 121,
+          "max_hr": 141,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "112s@132bpm",
+          "duration_secs": 112,
+          "avg_hr": 132,
+          "max_hr": 140,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 18,
+          "avg_hr": 135,
+          "max_hr": 140,
           "zone": 1
         }
       ]
