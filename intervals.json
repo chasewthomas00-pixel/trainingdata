@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:27:20.426748",
+  "generated_at": "2026-08-27T02:49:46.734901",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -770,6 +770,162 @@
           "zone": 1,
           "training_load": 15.777778,
           "decoupling": -0.16175131
+        }
+      ]
+    },
+    {
+      "activity_id": "i180188334",
+      "date": "2026-08-26",
+      "start_datetime": "2026-08-26T17:05:12",
+      "type": "Ride",
+      "name": "Crackhead alley",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5597,
+          "avg_power": 135,
+          "max_power": 791,
+          "avg_hr": 138,
+          "max_hr": 170,
+          "avg_cadence": 66.352356,
+          "zone": 2,
+          "training_load": 52.846176,
+          "decoupling": -12.066823
+        }
+      ]
+    },
+    {
+      "activity_id": "i180154489",
+      "date": "2026-08-26",
+      "start_datetime": "2026-08-26T14:43:02",
+      "type": "Swim",
+      "name": "Pool Swim",
+      "interval_summary": [
+        "1x 457m 112bpm",
+        "1x 68m 136bpm",
+        "1x 114m 122bpm",
+        "1x 731m 126bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 12,
+          "avg_hr": 96,
+          "max_hr": 98,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "572s@112bpm",
+          "duration_secs": 572,
+          "avg_hr": 112,
+          "max_hr": 127,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 291,
+          "avg_hr": 98,
+          "max_hr": 116,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "102s@136bpm27rpm",
+          "duration_secs": 102,
+          "avg_hr": 136,
+          "max_hr": 157,
+          "avg_cadence": 27.009804,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 35,
+          "avg_hr": 142,
+          "max_hr": 157,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "104s@122bpm",
+          "duration_secs": 104,
+          "avg_hr": 122,
+          "max_hr": 129,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 52,
+          "avg_hr": 117,
+          "max_hr": 125,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "947s@126bpm",
+          "duration_secs": 947,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i180135427",
+      "date": "2026-08-26",
+      "start_datetime": "2026-08-26T11:48:59",
+      "type": "Run",
+      "name": "Columbus Running",
+      "interval_summary": [
+        "2x 8m37s 152bpm",
+        "1x 17m9s 146bpm",
+        "1x 9m49s 158bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "517s@152bpm82rpm",
+          "duration_secs": 504,
+          "avg_hr": 145,
+          "max_hr": 158,
+          "avg_cadence": 82.81944,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 149,
+          "max_hr": 149,
+          "avg_cadence": 84.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1029s@146bpm81rpm",
+          "duration_secs": 1029,
+          "avg_hr": 146,
+          "max_hr": 159,
+          "avg_cadence": 81.38764,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "517s@152bpm82rpm",
+          "duration_secs": 530,
+          "avg_hr": 158,
+          "max_hr": 168,
+          "avg_cadence": 81.760376,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "589s@158bpm83rpm",
+          "duration_secs": 589,
+          "avg_hr": 158,
+          "max_hr": 171,
+          "avg_cadence": 82.586914,
+          "zone": 1
         }
       ]
     }
