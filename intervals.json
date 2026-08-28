@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T12:40:28.267472",
+  "generated_at": "2026-08-28T17:24:33.210429",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -926,6 +926,69 @@
           "zone": 1,
           "training_load": 24.677505,
           "decoupling": -10.664853
+        }
+      ]
+    },
+    {
+      "activity_id": "i180761405",
+      "date": "2026-08-28",
+      "start_datetime": "2026-08-28T12:43:10",
+      "type": "VirtualRide",
+      "name": "Zwift - FTP Ramp Test",
+      "interval_summary": [
+        "1x 2m10s 248w",
+        "1x 5m5s 313w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 705,
+          "avg_power": 123,
+          "max_power": 324,
+          "avg_hr": 122,
+          "max_hr": 155,
+          "avg_cadence": 77.90497,
+          "zone": 1,
+          "training_load": 6.7263436,
+          "decoupling": -51.467354
+        },
+        {
+          "type": "WORK",
+          "label": "130s@248w86rpm",
+          "duration_secs": 130,
+          "avg_power": 248,
+          "max_power": 380,
+          "avg_hr": 163,
+          "max_hr": 173,
+          "avg_cadence": 85.93077,
+          "zone": 4,
+          "training_load": 3.6407712,
+          "decoupling": -1.3652632
+        },
+        {
+          "type": "WORK",
+          "label": "305s@313w86rpm",
+          "duration_secs": 305,
+          "avg_power": 313,
+          "max_power": 431,
+          "avg_hr": 185,
+          "max_hr": 196,
+          "avg_cadence": 85.81312,
+          "zone": 6,
+          "training_load": 13.7638035,
+          "decoupling": -4.9821534
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 631,
+          "avg_power": 74,
+          "max_power": 294,
+          "avg_hr": 132,
+          "max_hr": 196,
+          "avg_cadence": 68.86495,
+          "zone": 1,
+          "training_load": 4.298611,
+          "decoupling": -13.674457
         }
       ]
     }
