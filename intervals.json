@@ -1,86 +1,10 @@
 {
-  "generated_at": "2026-09-03T23:32:37.032767",
+  "generated_at": "2026-09-04T01:23:42.378014",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i178058485",
-      "date": "2026-08-20",
-      "start_datetime": "2026-08-20T12:28:41",
-      "type": "Ride",
-      "name": "North Ogden Cycling",
-      "interval_summary": [
-        "1x 13m12s 165bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "792s@165bpm",
-          "duration_secs": 792,
-          "avg_hr": 165,
-          "max_hr": 189,
-          "zone": 2
-        }
-      ]
-    },
-    {
-      "activity_id": "i178102137",
-      "date": "2026-08-20",
-      "start_datetime": "2026-08-20T14:06:27",
-      "type": "Ride",
-      "name": "Toasty",
-      "interval_summary": [
-        "1x 18m 159bpm",
-        "1x 15m42s 165bpm",
-        "1x 45m12s 162bpm",
-        "1x 20m12s 165bpm",
-        "1x 6m17s 164bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1080s@159bpm",
-          "duration_secs": 1080,
-          "avg_hr": 159,
-          "max_hr": 177,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "942s@165bpm",
-          "duration_secs": 942,
-          "avg_hr": 165,
-          "max_hr": 176,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "2712s@162bpm",
-          "duration_secs": 2712,
-          "avg_hr": 162,
-          "max_hr": 179,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "1212s@165bpm",
-          "duration_secs": 1212,
-          "avg_hr": 165,
-          "max_hr": 181,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "377s@164bpm",
-          "duration_secs": 377,
-          "avg_hr": 164,
-          "max_hr": 176,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i178703673",
       "date": "2026-08-22",
