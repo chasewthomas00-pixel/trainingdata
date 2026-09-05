@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:26:19.863349",
+  "generated_at": "2026-09-05T22:12:35.021629",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1391,6 +1391,95 @@
           "avg_hr": 120,
           "max_hr": 124,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i183715590",
+      "date": "2026-09-05",
+      "start_datetime": "2026-09-05T17:21:11",
+      "type": "Run",
+      "name": "5 after 5 \ud83e\uddf1",
+      "interval_summary": [
+        "5x 8m47s 156bpm",
+        "1x 98s 165bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "527s@156bpm82rpm",
+          "duration_secs": 505,
+          "avg_hr": 145,
+          "max_hr": 157,
+          "avg_cadence": 85.04555,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "527s@156bpm82rpm",
+          "duration_secs": 525,
+          "avg_hr": 155,
+          "max_hr": 164,
+          "avg_cadence": 83.07047,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "527s@156bpm82rpm",
+          "duration_secs": 520,
+          "avg_hr": 157,
+          "max_hr": 167,
+          "avg_cadence": 82.075,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "527s@156bpm82rpm",
+          "duration_secs": 545,
+          "avg_hr": 162,
+          "max_hr": 175,
+          "avg_cadence": 81.70275,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "527s@156bpm82rpm",
+          "duration_secs": 539,
+          "avg_hr": 163,
+          "max_hr": 171,
+          "avg_cadence": 80.55102,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "98s@165bpm80rpm",
+          "duration_secs": 98,
+          "avg_hr": 165,
+          "max_hr": 170,
+          "avg_cadence": 80.438774,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i183709497",
+      "date": "2026-09-05",
+      "start_datetime": "2026-09-05T11:47:35",
+      "type": "VirtualRide",
+      "name": "Zwift - Tempus Fugit in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 19673,
+          "avg_power": 154,
+          "max_power": 370,
+          "avg_hr": 133,
+          "max_hr": 151,
+          "avg_cadence": 79.19946,
+          "zone": 2,
+          "training_load": 209.1253,
+          "decoupling": 0.4194432
         }
       ]
     }
