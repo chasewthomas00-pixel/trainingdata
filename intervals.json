@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:53:05.006387",
+  "generated_at": "2026-09-07T22:43:07.624703",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1539,6 +1539,101 @@
           "avg_cadence": 72.094215,
           "zone": 1,
           "training_load": 20.10012
+        }
+      ]
+    },
+    {
+      "activity_id": "i184384597",
+      "date": "2026-09-07",
+      "start_datetime": "2026-09-07T17:52:15",
+      "type": "Swim",
+      "name": "Pool Swim",
+      "interval_summary": [
+        "2x 365m 107bpm",
+        "3x 365m 134bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 6,
+          "avg_hr": 88,
+          "max_hr": 88,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "438s@107bpm",
+          "duration_secs": 431,
+          "avg_hr": 110,
+          "max_hr": 117,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 100,
+          "avg_hr": 96,
+          "max_hr": 107,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "438s@107bpm",
+          "duration_secs": 444,
+          "avg_hr": 104,
+          "max_hr": 113,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 83,
+          "avg_hr": 96,
+          "max_hr": 119,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "438s@134bpm",
+          "duration_secs": 431,
+          "avg_hr": 125,
+          "max_hr": 138,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 45,
+          "avg_hr": 123,
+          "max_hr": 139,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "438s@134bpm",
+          "duration_secs": 445,
+          "avg_hr": 134,
+          "max_hr": 146,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 81,
+          "avg_hr": 122,
+          "max_hr": 136,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "438s@134bpm",
+          "duration_secs": 438,
+          "avg_hr": 144,
+          "max_hr": 160,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 11,
+          "avg_hr": 154,
+          "max_hr": 155,
+          "zone": 1
         }
       ]
     }
