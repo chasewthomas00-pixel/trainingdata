@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:53:57.265065",
+  "generated_at": "2026-09-13T21:21:19.169005",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1636,6 +1636,155 @@
           "avg_hr": 136,
           "max_hr": 163,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i186420729",
+      "date": "2026-09-13",
+      "start_datetime": "2026-09-13T16:22:45",
+      "type": "Ride",
+      "name": "Upper Arlington Cycling",
+      "interval_summary": [
+        "1x 12m32s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "752s@140bpm",
+          "duration_secs": 752,
+          "avg_hr": 140,
+          "max_hr": 159,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i186416672",
+      "date": "2026-09-13",
+      "start_datetime": "2026-09-13T14:36:45",
+      "type": "Run",
+      "name": "Upper Arlington Running",
+      "interval_summary": [
+        "11x 8m25s 176bpm",
+        "1x 70s 185bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 481,
+          "avg_hr": 163,
+          "max_hr": 175,
+          "avg_cadence": 85.10811,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 171,
+          "max_hr": 171,
+          "avg_cadence": 84.0,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 509,
+          "avg_hr": 169,
+          "max_hr": 177,
+          "avg_cadence": 83.47844,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 490,
+          "avg_hr": 170,
+          "max_hr": 185,
+          "avg_cadence": 82.844894,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 548,
+          "avg_hr": 179,
+          "max_hr": 185,
+          "avg_cadence": 81.64213,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 499,
+          "avg_hr": 173,
+          "max_hr": 180,
+          "avg_cadence": 82.4489,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 484,
+          "avg_hr": 178,
+          "max_hr": 183,
+          "avg_cadence": 82.64256,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 532,
+          "avg_hr": 177,
+          "max_hr": 184,
+          "avg_cadence": 82.744286,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 486,
+          "avg_hr": 179,
+          "max_hr": 184,
+          "avg_cadence": 82.56379,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 566,
+          "avg_hr": 181,
+          "max_hr": 186,
+          "avg_cadence": 82.078835,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 487,
+          "avg_hr": 177,
+          "max_hr": 185,
+          "avg_cadence": 82.5154,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "505s@176bpm83rpm",
+          "duration_secs": 472,
+          "avg_hr": 185,
+          "max_hr": 188,
+          "avg_cadence": 82.01059,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "70s@185bpm82rpm",
+          "duration_secs": 70,
+          "avg_hr": 185,
+          "max_hr": 189,
+          "avg_cadence": 81.7,
+          "zone": 4
         }
       ]
     }
