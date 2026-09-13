@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:21:48.309777",
+  "generated_at": "2026-09-13T18:53:57.265065",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1616,6 +1616,26 @@
           "zone": 2,
           "training_load": 147.44954,
           "decoupling": 1.3052632
+        }
+      ]
+    },
+    {
+      "activity_id": "i186387690",
+      "date": "2026-09-13",
+      "start_datetime": "2026-09-13T14:17:02",
+      "type": "Ride",
+      "name": "Columbus Cycling",
+      "interval_summary": [
+        "1x 14m30s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "870s@136bpm",
+          "duration_secs": 870,
+          "avg_hr": 136,
+          "max_hr": 163,
+          "zone": 1
         }
       ]
     }
