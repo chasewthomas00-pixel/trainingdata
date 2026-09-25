@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:28:48.798587",
+  "generated_at": "2026-09-25T20:42:54.907132",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -677,6 +677,27 @@
           "zone": 1,
           "training_load": 13.781249,
           "decoupling": -0.7797245
+        }
+      ]
+    },
+    {
+      "activity_id": "i190357988",
+      "date": "2026-09-25",
+      "start_datetime": "2026-09-25T14:38:51",
+      "type": "VirtualRide",
+      "name": "Zwift - Seaside Sprint in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 384,
+          "avg_power": 83,
+          "max_power": 199,
+          "avg_hr": 119,
+          "max_hr": 130,
+          "avg_cadence": 57.784615,
+          "zone": 1,
+          "training_load": 1.4836961
         }
       ]
     }
