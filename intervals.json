@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:42:07.086367",
+  "generated_at": "2026-09-28T07:43:29.286891",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -534,6 +534,106 @@
           "max_hr": 164,
           "avg_cadence": 84.51515,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i191033998",
+      "date": "2026-09-27",
+      "start_datetime": "2026-09-27T09:04:17",
+      "type": "Ride",
+      "name": "Ironman Chattanooga bike",
+      "interval_summary": [
+        "2x 3m40s 186w",
+        "1x 4m32s 205w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1079,
+          "avg_power": 149,
+          "max_power": 323,
+          "avg_hr": 156,
+          "max_hr": 171,
+          "avg_cadence": 70.74606,
+          "zone": 2,
+          "training_load": 12.567633,
+          "decoupling": -10.503075
+        },
+        {
+          "type": "WORK",
+          "label": "220s@186w81rpm",
+          "duration_secs": 225,
+          "avg_power": 184,
+          "max_power": 256,
+          "avg_hr": 156,
+          "max_hr": 163,
+          "avg_cadence": 78.924446,
+          "zone": 3,
+          "training_load": 3.4773078,
+          "decoupling": 7.5082073
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 140,
+          "avg_power": 106,
+          "max_power": 241,
+          "avg_hr": 146,
+          "max_hr": 157,
+          "avg_cadence": 73.52857,
+          "zone": 1,
+          "training_load": 1.1728852,
+          "decoupling": 6.6016264
+        },
+        {
+          "type": "WORK",
+          "label": "272s@205w74rpm",
+          "duration_secs": 272,
+          "avg_power": 205,
+          "max_power": 292,
+          "avg_hr": 158,
+          "max_hr": 165,
+          "avg_cadence": 73.944855,
+          "zone": 3,
+          "training_load": 5.281376,
+          "decoupling": 4.92022
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3281,
+          "avg_power": 165,
+          "max_power": 385,
+          "avg_hr": 150,
+          "max_hr": 168,
+          "avg_cadence": 80.624504,
+          "zone": 2,
+          "training_load": 44.762703,
+          "decoupling": -1.8682721
+        },
+        {
+          "type": "WORK",
+          "label": "220s@186w81rpm",
+          "duration_secs": 214,
+          "avg_power": 188,
+          "max_power": 303,
+          "avg_hr": 154,
+          "max_hr": 161,
+          "avg_cadence": 82.80841,
+          "zone": 3,
+          "training_load": 3.34375,
+          "decoupling": 0.63227504
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 16420,
+          "avg_power": 139,
+          "max_power": 449,
+          "avg_hr": 148,
+          "max_hr": 168,
+          "avg_cadence": 70.59154,
+          "zone": 2,
+          "training_load": 175.00261,
+          "decoupling": 5.929979
         }
       ]
     }
