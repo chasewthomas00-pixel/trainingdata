@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:38:46.302659",
+  "generated_at": "2026-10-02T20:09:26.365403",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -464,6 +464,28 @@
           "zone": 2,
           "training_load": 175.00261,
           "decoupling": 5.929979
+        }
+      ]
+    },
+    {
+      "activity_id": "i192689867",
+      "date": "2026-10-02",
+      "start_datetime": "2026-10-02T11:10:24",
+      "type": "VirtualRide",
+      "name": "This Grill is Not a Home",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3624,
+          "avg_power": 138,
+          "max_power": 255,
+          "avg_hr": 124,
+          "max_hr": 142,
+          "avg_cadence": 74.904526,
+          "zone": 2,
+          "training_load": 34.094376,
+          "decoupling": -0.07046508
         }
       ]
     }
