@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:48:21.145636",
+  "generated_at": "2026-10-04T00:27:39.271105",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -486,6 +486,170 @@
           "zone": 2,
           "training_load": 34.094376,
           "decoupling": -0.07046508
+        }
+      ]
+    },
+    {
+      "activity_id": "i193197511",
+      "date": "2026-10-03",
+      "start_datetime": "2026-10-03T19:31:50",
+      "type": "Swim",
+      "name": "Pool Swim",
+      "interval_summary": [
+        "1x 91m 97bpm",
+        "5x 182m 111bpm",
+        "1x 91m 110bpm",
+        "1x 45m 118bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5,
+          "avg_hr": 90,
+          "max_hr": 91,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "110s@97bpm",
+          "duration_secs": 110,
+          "avg_hr": 97,
+          "max_hr": 102,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 21,
+          "avg_hr": 99,
+          "max_hr": 103,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "223s@111bpm",
+          "duration_secs": 225,
+          "avg_hr": 99,
+          "max_hr": 107,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 60,
+          "avg_hr": 100,
+          "max_hr": 108,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "223s@111bpm",
+          "duration_secs": 226,
+          "avg_hr": 106,
+          "max_hr": 112,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 60,
+          "avg_hr": 105,
+          "max_hr": 116,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "113s@110bpm",
+          "duration_secs": 113,
+          "avg_hr": 110,
+          "max_hr": 114,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 51,
+          "avg_hr": 101,
+          "max_hr": 109,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "223s@111bpm",
+          "duration_secs": 223,
+          "avg_hr": 112,
+          "max_hr": 120,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 67,
+          "avg_hr": 105,
+          "max_hr": 117,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "223s@111bpm",
+          "duration_secs": 219,
+          "avg_hr": 115,
+          "max_hr": 124,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 25,
+          "avg_hr": 118,
+          "max_hr": 122,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "53s@118bpm",
+          "duration_secs": 53,
+          "avg_hr": 118,
+          "max_hr": 121,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 28,
+          "avg_hr": 117,
+          "max_hr": 122,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "223s@111bpm",
+          "duration_secs": 222,
+          "avg_hr": 122,
+          "max_hr": 130,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 34,
+          "avg_hr": 130,
+          "max_hr": 138,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i193186866",
+      "date": "2026-10-03",
+      "start_datetime": "2026-10-03T17:38:22",
+      "type": "VirtualRide",
+      "name": "Jeremiah Smith",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3828,
+          "avg_power": 145,
+          "max_power": 389,
+          "avg_hr": 138,
+          "max_hr": 171,
+          "avg_cadence": 72.73406,
+          "zone": 2,
+          "training_load": 42.875843,
+          "decoupling": 0.5005446
         }
       ]
     }
