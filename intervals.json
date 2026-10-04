@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:12:07.294849",
+  "generated_at": "2026-10-04T23:15:58.060736",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -650,6 +650,28 @@
           "zone": 2,
           "training_load": 42.875843,
           "decoupling": 0.5005446
+        }
+      ]
+    },
+    {
+      "activity_id": "i193602392",
+      "date": "2026-10-04",
+      "start_datetime": "2026-10-04T17:56:13",
+      "type": "VirtualRide",
+      "name": "Zwift - Pacer Group Ride with Maria",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3669,
+          "avg_power": 149,
+          "max_power": 394,
+          "avg_hr": 138,
+          "max_hr": 167,
+          "avg_cadence": 77.46852,
+          "zone": 2,
+          "training_load": 41.127182,
+          "decoupling": -1.8853074
         }
       ]
     }
