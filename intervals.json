@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-10-07T21:53:20.825567",
+  "generated_at": "2026-10-08T01:43:15.343651",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i189747841",
-      "date": "2026-09-23",
-      "start_datetime": "2026-09-23T18:20:56",
-      "type": "VirtualRide",
-      "name": "Zwift - Volcano Climb in Watopia",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3191,
-          "avg_power": 129,
-          "max_power": 251,
-          "avg_hr": 125,
-          "max_hr": 144,
-          "avg_cadence": 69.534164,
-          "zone": 1,
-          "training_load": 25.577274,
-          "decoupling": -4.811036
-        }
-      ]
-    },
     {
       "activity_id": "i190064991",
       "date": "2026-09-24",
@@ -816,6 +794,80 @@
           "avg_hr": 124,
           "max_hr": 131,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i194886552",
+      "date": "2026-10-07",
+      "start_datetime": "2026-10-07T19:46:05",
+      "type": "VirtualRide",
+      "name": "Zwift - Loopin Lava in Watopia",
+      "interval_summary": [
+        "1x 3m40s 275w",
+        "1x 3m38s 329w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1163,
+          "avg_power": 153,
+          "max_power": 333,
+          "avg_hr": 134,
+          "max_hr": 153,
+          "avg_cadence": 66.59673,
+          "zone": 2,
+          "training_load": 13.375094,
+          "decoupling": -11.959554
+        },
+        {
+          "type": "WORK",
+          "label": "220s@275w73rpm",
+          "duration_secs": 220,
+          "avg_power": 275,
+          "max_power": 389,
+          "avg_hr": 176,
+          "max_hr": 185,
+          "avg_cadence": 73.277275,
+          "zone": 5,
+          "training_load": 7.762577,
+          "decoupling": 10.306099
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_power": 258,
+          "max_power": 258,
+          "avg_hr": 183,
+          "max_hr": 183,
+          "avg_cadence": 63.0,
+          "zone": 5,
+          "training_load": 0.032764956
+        },
+        {
+          "type": "WORK",
+          "label": "218s@329w73rpm",
+          "duration_secs": 218,
+          "avg_power": 329,
+          "max_power": 435,
+          "avg_hr": 194,
+          "max_hr": 203,
+          "avg_cadence": 72.88532,
+          "zone": 6,
+          "training_load": 10.677372,
+          "decoupling": -0.7444603
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 483,
+          "avg_power": 122,
+          "max_power": 305,
+          "avg_hr": 156,
+          "max_hr": 203,
+          "avg_cadence": 67.12422,
+          "zone": 1,
+          "training_load": 5.74517,
+          "decoupling": 3.5650692
         }
       ]
     }
