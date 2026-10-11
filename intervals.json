@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:45:53.292707",
+  "generated_at": "2026-10-11T05:21:14.387587",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1000,6 +1000,28 @@
           "avg_hr": 146,
           "max_hr": 150,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i195953358",
+      "date": "2026-10-10",
+      "start_datetime": "2026-10-10T19:29:10",
+      "type": "VirtualRide",
+      "name": "For Ohio",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3679,
+          "avg_power": 142,
+          "max_power": 305,
+          "avg_hr": 137,
+          "max_hr": 155,
+          "avg_cadence": 72.82465,
+          "zone": 2,
+          "training_load": 36.900616,
+          "decoupling": 0.7979141
         }
       ]
     }
