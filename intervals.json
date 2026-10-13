@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:09:31.334005",
+  "generated_at": "2026-10-13T22:48:23.936133",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -688,6 +688,55 @@
           "zone": 1,
           "training_load": 47.988846,
           "decoupling": -4.1403513
+        }
+      ]
+    },
+    {
+      "activity_id": "i196999145",
+      "date": "2026-10-13",
+      "start_datetime": "2026-10-13T17:08:24",
+      "type": "Run",
+      "name": "Columbus Running",
+      "interval_summary": [
+        "3x 10m23s 143bpm",
+        "1x 63s 146bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "623s@143bpm82rpm",
+          "duration_secs": 621,
+          "avg_hr": 136,
+          "max_hr": 148,
+          "avg_cadence": 82.937195,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "623s@143bpm82rpm",
+          "duration_secs": 609,
+          "avg_hr": 145,
+          "max_hr": 153,
+          "avg_cadence": 82.52709,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "623s@143bpm82rpm",
+          "duration_secs": 640,
+          "avg_hr": 147,
+          "max_hr": 156,
+          "avg_cadence": 81.36406,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "63s@146bpm81rpm",
+          "duration_secs": 63,
+          "avg_hr": 146,
+          "max_hr": 151,
+          "avg_cadence": 80.79365,
+          "zone": 1
         }
       ]
     }
