@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:05:34.722942",
+  "generated_at": "2026-10-16T21:14:01.338506",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -994,6 +994,28 @@
           "avg_hr": 137,
           "max_hr": 141,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i198120810",
+      "date": "2026-10-16",
+      "start_datetime": "2026-10-16T16:03:20",
+      "type": "VirtualRide",
+      "name": "Zwift - Sand And Sequoias in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3101,
+          "avg_power": 131,
+          "max_power": 277,
+          "avg_hr": 128,
+          "max_hr": 146,
+          "avg_cadence": 70.556206,
+          "zone": 1,
+          "training_load": 24.046923,
+          "decoupling": -8.616572
         }
       ]
     }
