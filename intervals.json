@@ -1,174 +1,10 @@
 {
-  "generated_at": "2026-10-17T23:29:44.554709",
+  "generated_at": "2026-10-18T01:29:01.023311",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i193197511",
-      "date": "2026-10-03",
-      "start_datetime": "2026-10-03T19:31:50",
-      "type": "Swim",
-      "name": "Pool Swim",
-      "interval_summary": [
-        "1x 91m 97bpm",
-        "5x 182m 111bpm",
-        "1x 91m 110bpm",
-        "1x 45m 118bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5,
-          "avg_hr": 90,
-          "max_hr": 91,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "110s@97bpm",
-          "duration_secs": 110,
-          "avg_hr": 97,
-          "max_hr": 102,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 21,
-          "avg_hr": 99,
-          "max_hr": 103,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "223s@111bpm",
-          "duration_secs": 225,
-          "avg_hr": 99,
-          "max_hr": 107,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 60,
-          "avg_hr": 100,
-          "max_hr": 108,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "223s@111bpm",
-          "duration_secs": 226,
-          "avg_hr": 106,
-          "max_hr": 112,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 60,
-          "avg_hr": 105,
-          "max_hr": 116,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "113s@110bpm",
-          "duration_secs": 113,
-          "avg_hr": 110,
-          "max_hr": 114,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 51,
-          "avg_hr": 101,
-          "max_hr": 109,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "223s@111bpm",
-          "duration_secs": 223,
-          "avg_hr": 112,
-          "max_hr": 120,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 67,
-          "avg_hr": 105,
-          "max_hr": 117,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "223s@111bpm",
-          "duration_secs": 219,
-          "avg_hr": 115,
-          "max_hr": 124,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 25,
-          "avg_hr": 118,
-          "max_hr": 122,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "53s@118bpm",
-          "duration_secs": 53,
-          "avg_hr": 118,
-          "max_hr": 121,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 28,
-          "avg_hr": 117,
-          "max_hr": 122,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "223s@111bpm",
-          "duration_secs": 222,
-          "avg_hr": 122,
-          "max_hr": 130,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 34,
-          "avg_hr": 130,
-          "max_hr": 138,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i193186866",
-      "date": "2026-10-03",
-      "start_datetime": "2026-10-03T17:38:22",
-      "type": "VirtualRide",
-      "name": "Jeremiah Smith",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3828,
-          "avg_power": 145,
-          "max_power": 389,
-          "avg_hr": 138,
-          "max_hr": 171,
-          "avg_cadence": 72.73406,
-          "zone": 2,
-          "training_load": 42.875843,
-          "decoupling": 0.5005446
-        }
-      ]
-    },
     {
       "activity_id": "i193602392",
       "date": "2026-10-04",
@@ -1059,6 +895,74 @@
           "avg_hr": 154,
           "max_hr": 159,
           "avg_cadence": 82.01571,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i198486102",
+      "date": "2026-10-17",
+      "start_datetime": "2026-10-17T19:34:11",
+      "type": "Run",
+      "name": "Columbus Running",
+      "interval_summary": [
+        "4x 8m50s 150bpm",
+        "1x 7m23s 167bpm",
+        "1x 44s 154bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "530s@150bpm84rpm",
+          "duration_secs": 525,
+          "avg_hr": 139,
+          "max_hr": 153,
+          "avg_cadence": 85.180954,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "443s@167bpm86rpm",
+          "duration_secs": 443,
+          "avg_hr": 167,
+          "max_hr": 180,
+          "avg_cadence": 85.832954,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "530s@150bpm84rpm",
+          "duration_secs": 534,
+          "avg_hr": 153,
+          "max_hr": 180,
+          "avg_cadence": 82.99064,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "530s@150bpm84rpm",
+          "duration_secs": 527,
+          "avg_hr": 153,
+          "max_hr": 160,
+          "avg_cadence": 83.214424,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "530s@150bpm84rpm",
+          "duration_secs": 533,
+          "avg_hr": 156,
+          "max_hr": 165,
+          "avg_cadence": 83.11257,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "44s@154bpm83rpm",
+          "duration_secs": 44,
+          "avg_hr": 154,
+          "max_hr": 158,
+          "avg_cadence": 82.72727,
           "zone": 1
         }
       ]
