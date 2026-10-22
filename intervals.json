@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:39:36.865844",
+  "generated_at": "2026-10-22T16:03:33.358337",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -774,6 +774,65 @@
           "avg_hr": 174,
           "max_hr": 175,
           "avg_cadence": 81.166664,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i200407417",
+      "date": "2026-10-22",
+      "start_datetime": "2026-10-22T10:58:47",
+      "type": "Run",
+      "name": "Washed",
+      "interval_summary": [
+        "1x 2m26s 141bpm",
+        "1x 6m6s 187bpm",
+        "1x 2m13s 196bpm",
+        "1x 5m7s 167bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "146s@141bpm76rpm",
+          "duration_secs": 146,
+          "avg_hr": 141,
+          "max_hr": 157,
+          "avg_cadence": 75.861115,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "366s@187bpm84rpm",
+          "duration_secs": 366,
+          "avg_hr": 187,
+          "max_hr": 197,
+          "avg_cadence": 83.96175,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "133s@196bpm81rpm",
+          "duration_secs": 133,
+          "avg_hr": 196,
+          "max_hr": 199,
+          "avg_cadence": 81.36842,
+          "zone": 6
+        },
+        {
+          "type": "WORK",
+          "label": "307s@167bpm79rpm",
+          "duration_secs": 307,
+          "avg_hr": 167,
+          "max_hr": 197,
+          "avg_cadence": 78.700386,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 171,
+          "max_hr": 171,
+          "avg_cadence": 81.0,
           "zone": 3
         }
       ]
