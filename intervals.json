@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:10:06.357678",
+  "generated_at": "2026-10-22T23:25:46.327160",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -834,6 +834,55 @@
           "max_hr": 171,
           "avg_cadence": 81.0,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i200557453",
+      "date": "2026-10-22",
+      "start_datetime": "2026-10-22T17:50:36",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": [
+        "1x 3m38s 223w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3273,
+          "avg_power": 175,
+          "max_power": 524,
+          "avg_hr": 153,
+          "max_hr": 178,
+          "avg_cadence": 68.96626,
+          "zone": 2,
+          "training_load": 53.02245,
+          "decoupling": 2.3032336
+        },
+        {
+          "type": "WORK",
+          "label": "218s@223w82rpm",
+          "duration_secs": 218,
+          "avg_power": 223,
+          "max_power": 354,
+          "avg_hr": 168,
+          "max_hr": 174,
+          "avg_cadence": 81.80275,
+          "zone": 4,
+          "training_load": 4.9677405,
+          "decoupling": 0.698119
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1505,
+          "avg_power": 169,
+          "max_power": 443,
+          "avg_hr": 154,
+          "max_hr": 173,
+          "avg_cadence": 68.582054,
+          "zone": 2,
+          "training_load": 20.18384,
+          "decoupling": 5.3480744
         }
       ]
     }
