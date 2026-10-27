@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-10-26T21:54:40.324269",
+  "generated_at": "2026-10-27T01:20:58.166564",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i196628109",
-      "date": "2026-10-12",
-      "start_datetime": "2026-10-12T15:58:59",
-      "type": "Ride",
-      "name": "I am the problem",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 6065,
-          "avg_power": 116,
-          "max_power": 615,
-          "avg_hr": 131,
-          "max_hr": 167,
-          "avg_cadence": 56.694336,
-          "zone": 1,
-          "training_load": 47.988846,
-          "decoupling": -4.1403513
-        }
-      ]
-    },
     {
       "activity_id": "i196999145",
       "date": "2026-10-13",
