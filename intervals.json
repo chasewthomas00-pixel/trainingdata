@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:15:23.530417",
+  "generated_at": "2026-10-29T23:30:28.876281",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -1022,6 +1022,73 @@
           "max_hr": 166,
           "avg_cadence": 80.45957,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i203383107",
+      "date": "2026-10-29",
+      "start_datetime": "2026-10-29T18:14:59",
+      "type": "Run",
+      "name": "Sus run",
+      "interval_summary": [
+        "1x 8m54s 152bpm",
+        "3x 6m43s 187bpm",
+        "1x 5m26s 200bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "534s@152bpm83rpm",
+          "duration_secs": 534,
+          "avg_hr": 152,
+          "max_hr": 170,
+          "avg_cadence": 82.98915,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "403s@187bpm82rpm",
+          "duration_secs": 407,
+          "avg_hr": 187,
+          "max_hr": 199,
+          "avg_cadence": 83.17199,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 200,
+          "max_hr": 200,
+          "avg_cadence": 83.0,
+          "zone": 6
+        },
+        {
+          "type": "WORK",
+          "label": "403s@187bpm82rpm",
+          "duration_secs": 398,
+          "avg_hr": 197,
+          "max_hr": 201,
+          "avg_cadence": 81.228645,
+          "zone": 6
+        },
+        {
+          "type": "WORK",
+          "label": "326s@200bpm82rpm",
+          "duration_secs": 326,
+          "avg_hr": 200,
+          "max_hr": 205,
+          "avg_cadence": 81.858894,
+          "zone": 6
+        },
+        {
+          "type": "WORK",
+          "label": "403s@187bpm82rpm",
+          "duration_secs": 403,
+          "avg_hr": 176,
+          "max_hr": 200,
+          "avg_cadence": 81.84795,
+          "zone": 3
         }
       ]
     }
