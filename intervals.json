@@ -1,225 +1,10 @@
 {
-  "generated_at": "2026-10-30T21:05:46.691964",
+  "generated_at": "2026-10-31T00:49:24.123766",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i197994257",
-      "date": "2026-10-16",
-      "start_datetime": "2026-10-16T09:53:24",
-      "type": "Swim",
-      "name": "Pool Swim",
-      "interval_summary": [
-        "3x 365m 131bpm",
-        "2x 91m 122bpm",
-        "1x 91m 140bpm",
-        "1x 320m 141bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5,
-          "avg_hr": 108,
-          "max_hr": 109,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "457s@131bpm",
-          "duration_secs": 455,
-          "avg_hr": 118,
-          "max_hr": 133,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 80,
-          "avg_hr": 107,
-          "max_hr": 126,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "103s@122bpm",
-          "duration_secs": 105,
-          "avg_hr": 119,
-          "max_hr": 125,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 72,
-          "avg_hr": 110,
-          "max_hr": 125,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "457s@131bpm",
-          "duration_secs": 456,
-          "avg_hr": 143,
-          "max_hr": 157,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 82,
-          "avg_hr": 121,
-          "max_hr": 133,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "103s@122bpm",
-          "duration_secs": 100,
-          "avg_hr": 124,
-          "max_hr": 135,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 11,
-          "avg_hr": 134,
-          "max_hr": 135,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "457s@131bpm",
-          "duration_secs": 460,
-          "avg_hr": 131,
-          "max_hr": 148,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 46,
-          "avg_hr": 126,
-          "max_hr": 138,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "112s@140bpm",
-          "duration_secs": 112,
-          "avg_hr": 140,
-          "max_hr": 145,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 22,
-          "avg_hr": 137,
-          "max_hr": 142,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "406s@141bpm",
-          "duration_secs": 406,
-          "avg_hr": 141,
-          "max_hr": 150,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 13,
-          "avg_hr": 137,
-          "max_hr": 141,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i198120810",
-      "date": "2026-10-16",
-      "start_datetime": "2026-10-16T16:03:20",
-      "type": "VirtualRide",
-      "name": "Zwift - Sand And Sequoias in Watopia",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3101,
-          "avg_power": 131,
-          "max_power": 277,
-          "avg_hr": 128,
-          "max_hr": 146,
-          "avg_cadence": 70.556206,
-          "zone": 1,
-          "training_load": 24.046923,
-          "decoupling": -8.616572
-        }
-      ]
-    },
-    {
-      "activity_id": "i198149023",
-      "date": "2026-10-16",
-      "start_datetime": "2026-10-16T18:57:19",
-      "type": "Run",
-      "name": "Columbus Running",
-      "interval_summary": [
-        "4x 9m10s 149bpm",
-        "1x 3m11s 154bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "550s@149bpm83rpm",
-          "duration_secs": 533,
-          "avg_hr": 145,
-          "max_hr": 156,
-          "avg_cadence": 83.91557,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 148,
-          "max_hr": 148,
-          "avg_cadence": 85.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "550s@149bpm83rpm",
-          "duration_secs": 557,
-          "avg_hr": 148,
-          "max_hr": 156,
-          "avg_cadence": 82.95691,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "550s@149bpm83rpm",
-          "duration_secs": 559,
-          "avg_hr": 151,
-          "max_hr": 157,
-          "avg_cadence": 82.77102,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "550s@149bpm83rpm",
-          "duration_secs": 552,
-          "avg_hr": 153,
-          "max_hr": 159,
-          "avg_cadence": 82.36413,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "191s@154bpm82rpm",
-          "duration_secs": 191,
-          "avg_hr": 154,
-          "max_hr": 159,
-          "avg_cadence": 82.01571,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i198486102",
       "date": "2026-10-17",
@@ -1089,6 +874,105 @@
           "max_hr": 200,
           "avg_cadence": 81.84795,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i203741003",
+      "date": "2026-10-30",
+      "start_datetime": "2026-10-30T18:05:48",
+      "type": "Ride",
+      "name": "Columbus Road Cycling",
+      "interval_summary": [
+        "2x 10s 444w",
+        "1x 21s 420w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 974,
+          "avg_power": 117,
+          "max_power": 403,
+          "avg_hr": 128,
+          "max_hr": 150,
+          "avg_cadence": 48.681023,
+          "zone": 1,
+          "training_load": 8.758346
+        },
+        {
+          "type": "WORK",
+          "label": "10s@444w66rpm",
+          "duration_secs": 9,
+          "avg_power": 451,
+          "max_power": 627,
+          "avg_hr": 134,
+          "max_hr": 152,
+          "avg_cadence": 77.666664,
+          "zone": 7,
+          "training_load": 0.10482733,
+          "decoupling": 18.465675
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 113,
+          "avg_power": 157,
+          "max_power": 457,
+          "avg_hr": 165,
+          "max_hr": 175,
+          "avg_cadence": 45.035397,
+          "zone": 2,
+          "training_load": 1.8833017,
+          "decoupling": 11.634916
+        },
+        {
+          "type": "WORK",
+          "label": "10s@444w66rpm",
+          "duration_secs": 11,
+          "avg_power": 436,
+          "max_power": 500,
+          "avg_hr": 155,
+          "max_hr": 157,
+          "avg_cadence": 53.363636,
+          "zone": 7,
+          "training_load": 0.269142,
+          "decoupling": 4.195095
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 714,
+          "avg_power": 113,
+          "max_power": 505,
+          "avg_hr": 139,
+          "max_hr": 176,
+          "avg_cadence": 40.650436,
+          "zone": 1,
+          "training_load": 7.2642484,
+          "decoupling": 14.051278
+        },
+        {
+          "type": "WORK",
+          "label": "21s@420w63rpm",
+          "duration_secs": 21,
+          "avg_power": 420,
+          "max_power": 552,
+          "avg_hr": 156,
+          "max_hr": 171,
+          "avg_cadence": 62.761906,
+          "zone": 7,
+          "training_load": 0.6674491,
+          "decoupling": 17.50412
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 39,
+          "avg_power": 150,
+          "max_power": 471,
+          "avg_hr": 172,
+          "max_hr": 177,
+          "avg_cadence": 33.384617,
+          "zone": 2,
+          "training_load": 1.8632984,
+          "decoupling": 85.968185
         }
       ]
     }
