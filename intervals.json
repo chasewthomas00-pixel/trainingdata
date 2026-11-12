@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:21:14.852388",
+  "generated_at": "2026-11-12T19:03:26.663861",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -438,6 +438,28 @@
           "max_hr": 164,
           "avg_cadence": 82.82284,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i209223806",
+      "date": "2026-11-12",
+      "start_datetime": "2026-11-12T11:30:49",
+      "type": "VirtualRide",
+      "name": "Zwift - Going Coastal in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1891,
+          "avg_power": 131,
+          "max_power": 263,
+          "avg_hr": 123,
+          "max_hr": 139,
+          "avg_cadence": 66.88207,
+          "zone": 1,
+          "training_load": 15.606756,
+          "decoupling": -3.8906186
         }
       ]
     }
