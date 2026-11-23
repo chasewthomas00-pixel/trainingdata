@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:57:30.465762",
+  "generated_at": "2026-11-23T02:30:21.520059",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -544,6 +544,73 @@
           "max_hr": 162,
           "avg_cadence": 83.436295,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i213476591",
+      "date": "2026-11-22",
+      "start_datetime": "2026-11-22T18:33:58",
+      "type": "Run",
+      "name": "Rivalry Run",
+      "interval_summary": [
+        "1x 1h 150bpm",
+        "3x 7m28s 166bpm",
+        "1x 4s 194bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "3604s@150bpm83rpm",
+          "duration_secs": 3604,
+          "avg_hr": 150,
+          "max_hr": 166,
+          "avg_cadence": 83.37719,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "448s@166bpm84rpm",
+          "duration_secs": 463,
+          "avg_hr": 156,
+          "max_hr": 167,
+          "avg_cadence": 85.87041,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "448s@166bpm84rpm",
+          "duration_secs": 460,
+          "avg_hr": 167,
+          "max_hr": 181,
+          "avg_cadence": 84.01956,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "448s@166bpm84rpm",
+          "duration_secs": 421,
+          "avg_hr": 175,
+          "max_hr": 194,
+          "avg_cadence": 82.97387,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "4s@194bpm76rpm",
+          "duration_secs": 4,
+          "avg_hr": 194,
+          "max_hr": 195,
+          "avg_cadence": 76.0,
+          "zone": 5
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 194,
+          "max_hr": 194,
+          "avg_cadence": 78.0,
+          "zone": 5
         }
       ]
     }
