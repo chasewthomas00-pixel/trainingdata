@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:52:17.842861",
+  "generated_at": "2026-11-24T06:52:59.921188",
   "version": "3.118",
   "script_hash": "1eed33a9dc1e",
   "scan_hours": 72,
@@ -611,6 +611,28 @@
           "max_hr": 194,
           "avg_cadence": 78.0,
           "zone": 5
+        }
+      ]
+    },
+    {
+      "activity_id": "i213882370",
+      "date": "2026-11-23",
+      "start_datetime": "2026-11-23T19:19:01",
+      "type": "VirtualRide",
+      "name": "Zwift - Laps, Camera, Traction in Watopia",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3643,
+          "avg_power": 150,
+          "max_power": 343,
+          "avg_hr": 135,
+          "max_hr": 157,
+          "avg_cadence": 74.47598,
+          "zone": 2,
+          "training_load": 41.36435,
+          "decoupling": -2.433771
         }
       ]
     }
